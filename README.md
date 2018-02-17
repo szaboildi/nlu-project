@@ -9,7 +9,6 @@ Project team only. Follow the steps as described in [this article](https://blog.
 In the repository directory, run the following commands to download the data, clean up hidden files, and unzip:
 
 ```
-$ mkdir data
 $ cd data/
 
 $ curl -O https://nlp.stanford.edu/projects/snli/snli_1.0.zip
@@ -23,7 +22,7 @@ $ zip -d multinli_1.0.zip \*/.DS_Store
 $ unzip multinli_1.0.zip
 ```
 
-Alternatively, [download the original data as well as the preprocessed data files here](https://www.dropbox.com/sh/rjx2z98a10fz1li/AAAIM9ubvBT9i8a7sIOA9TNIa?dl=0).
+Alternatively, [download the updated data folder here](https://www.dropbox.com/sh/rjx2z98a10fz1li/AAAIM9ubvBT9i8a7sIOA9TNIa?dl=0).
 
 
 ### Run

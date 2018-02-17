@@ -1,0 +1,11 @@
+all
+any
+both
+every
+few
+many
+most
+no
+several
+some
+zero
